@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Quicksand';
+  src: url('/public/Quicksand-Light.woff2') format('woff2'), url('/public/Quicksand-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  /* font-display: swap; */
+}
+
+@import './css/sass/abstracts/variables';
+@import './css/sass/base/reset';
+@import './css/sass/components/buttons';
+@import './css/sass/components/app';
+@import './css/sass/layout/header';
+@import './css/sass/components/Home';
+@import './css/sass/components/loader';
+@import './css/sass/components/Base';
+@import './css/sass/components/toppings';
+@import './css/sass/components/order';
+@import './css/sass/components/modal'

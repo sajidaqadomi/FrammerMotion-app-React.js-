@@ -1,0 +1,25 @@
+.home {
+    .content {
+        //position: relative;
+        padding: 220px 0 240px 0;
+        display: flex;
+        justify-content: center;
+
+        .home-items {
+            .greeting {
+                margin-bottom: 25px;
+            }
+
+            .btn {
+                border: 1px solid white;
+                border-radius: 30px;
+                display: block;
+                margin: auto;
+            }
+
+
+        }
+
+    }
+
+}
